@@ -1,4 +1,4 @@
-# Star-Dataset-Classification-With-Neuraln-Networks
+# Star-Dataset-Classification-With-Neural-Networks
 
 This project uses a dataset of astronomical measurements (`Star.csv`) to build a binary classifier that predicts whether a given observation belongs to a specific type of star.  
 
